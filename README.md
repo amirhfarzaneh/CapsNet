@@ -67,6 +67,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 - [leftthomas/FCCapsNet](https://github.com/leftthomas/FCCapsNet)
 
 ## Tensorflow
+- [naturomics/CapsLayer](https://github.com/naturomics/CapsLayer)
 - [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 - [InnerPeace-Wu/CapsNet-tensorflow](https://github.com/InnerPeace-Wu/CapsNet-tensorflow)
 - [laodar/tf_CapsNet](https://github.com/laodar/tf_CapsNet)
